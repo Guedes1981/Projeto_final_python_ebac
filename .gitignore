@@ -205,3 +205,11 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+# Dados privados
+data/*
+!data/README.md
+
+# Notebooks (lixo de sessão)
+.ipynb_checkpoints/
+*.ipynb~
