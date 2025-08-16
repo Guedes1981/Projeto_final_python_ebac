@@ -9,7 +9,7 @@ Notebook público: **[coloque aqui o link do seu notebook no Kaggle]**
 ## 📂 Arquivos
 - `SEU_NOTEBOOK.ipynb` — análise completa (Dados & Preparação, Exploração, Visualizações, Insights, Recomendações, Conclusão).
 - `plots/` — imagens dos gráficos usadas no relatório.
-- `data/` — (opcional) CSV original, se público.
+- `data/` — CSV original, se público.
 
 ## ▶️ Como rodar localmente (opcional)
 1) Python 3.10+  
