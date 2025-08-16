@@ -4,12 +4,12 @@
 Este repo contém o **mesmo notebook** publicado no Kaggle (versão de vitrine) e as figuras em `plots/`.
 
 ## 🔗 Kaggle
-Notebook público: **[coloque aqui o link do seu notebook no Kaggle]**
+Notebook público: **[(https://www.kaggle.com/code/murilobguedes/trabalho-final-pyhton-ebac-murilo-guedes/notebook)]**
 
 ## 📂 Arquivos
 - `SEU_NOTEBOOK.ipynb` — análise completa (Dados & Preparação, Exploração, Visualizações, Insights, Recomendações, Conclusão).
 - `plots/` — imagens dos gráficos usadas no relatório.
-- `data/` — CSV original, se público.
+- `data/` — CSV original.
 
 ## ▶️ Como rodar localmente (opcional)
 1) Python 3.10+  
